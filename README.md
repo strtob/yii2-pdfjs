@@ -10,7 +10,7 @@
 -   Melalui console
 
 ```
-composer require --prefer-dist diecoding/yii2-pdfjs "*"
+composer require --prefer-dist strtob/yii2-pdfjs "*"
 ```
 
 -   Melalui `composer.json`
